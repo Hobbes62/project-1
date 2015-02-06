@@ -1,0 +1,212 @@
+html {
+	background-color:#fff;
+}
+
+
+body {
+margin: 0;
+}
+
+main {
+	margin: 1em;
+}
+
+header {
+	font-family: 'Sigmar One', cursive;
+	background-color: #ffe524;
+	color: #b32f52;
+	padding: 5em 0em 0em 0em;
+	margin: 0em;
+	text-align: center;
+	text-decoration: none;
+}
+
+
+h1 {
+	color: #b32f52;
+	font-family: 'Sigmar One', cursive;
+	font-weight: bold;
+	font-size: 5rem;
+	font-style: italic;
+	text-decoration: none;
+	font-family: 'Sigmar One', cursive;
+	line-height:1.5;
+	text-align: center;
+}
+
+h2 {
+	color: #b32f52;
+	font-family: 'Sigmar One', cursive;
+	font-weight: bold;
+	font-size: 5rem;
+	font-style: italic;
+	text-decoration: none;
+	font-family: 'Sigmar One', cursive;
+	line-height:1.5;
+	text-align: left;
+}
+
+h3 {
+	color: #b32f52;
+	font-family: 'Sigmar One', cursive;
+	font-weight: bold;
+	font-size: 5rem;
+	font-style: italic;
+	text-decoration: none;
+	font-family: 'Sigmar One', cursive;
+	line-height:1.5;
+	text-align: left;
+}
+
+nav li {
+	color: #fff;
+	font-family: 'Georgia';
+	background-color: #b2a215;
+	text-align: center;
+	margin: 0;
+	padding: 1em 1em 1em 1em;
+	border: none;
+	border-radius: 7px;
+	display: inline-block;
+
+}
+
+	ol {
+	line-height:1.5;
+	font-weight: bold;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Arial, sans-serif;
+	list-style-type: lower-roman;
+	padding: 0;
+}
+
+p {
+	line-height:1.5;
+	font-weight: normal;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+}
+
+blockquote {
+	font-family: 'Georgia';
+	font-style:italic;
+	line-height:1.5;
+	font-weight: normal;
+	font-size: 1rem;
+	text-decoration: none;
+	color: #b2a215;
+}
+
+figure {
+	text-align: center;
+	background-color: #fffce0;
+	border: solid;
+	border-radius: 21px;
+	padding: 1em 1em 1em 1em;
+	margin: 0em;
+}
+
+figcaption {
+	font-style:italic ;
+	line-height:1.5;
+	font-weight: normal;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+
+}
+
+dl {
+	line-height:1.5;
+	font-weight: bold;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+	text-align: left;
+}
+
+dd {
+	font-style: bold;
+	line-height:1.5;
+	font-weight: none;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+	text-align: left;
+	margin: 0;
+
+
+dt {
+	font-style: none;
+	line-height:1.5;
+	font-weight: none;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+	text-align: left;
+	margin: 0;
+}
+
+.dt {
+	font-style: none;
+}
+
+
+p {
+		font-family: Georgia;
+}
+
+a {
+		color: #b32f52;
+}
+
+a:hover {
+		color: #b32f52;
+}
+
+.merc {
+	color: white;
+}
+
+.bars {
+	color: blue;
+}
+
+.cite {
+	text-align: center;
+	font-family: 'Georgia';
+	color: #b2a215;
+	}
+
+.blockquote {
+	text-align: center;
+	font-family: 'Georgia';
+	color: #b2a215;
+	}
+
+
+em {
+	color: black;
+	font-weight: bold;
+	font-style: bold;
+}
+
+.sources {
+	background-color: ;
+	text-align: left;
+	text-decoration:none;
+	margin: 0em;
+	text-decoration: none;
+}
+
+
+
+img {
+width: 100%;
+}
+
+footer {
+	background-colour: #ffe524;
+}
