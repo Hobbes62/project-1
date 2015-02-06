@@ -4,7 +4,7 @@ html {
 
 
 body {
-margin: 0;
+	margin: 0;
 }
 
 main {
@@ -62,12 +62,12 @@ h3 {
 }
 
 nav {
-font-weight: normal;
-color: white;
-font-family: "Georgia";
-background-color: #ffe524;
-text-align: center;
-padding: 0em;}
+	font-weight: normal;
+	color: white;
+	font-family: "Georgia";
+	background-color: #ffe524;
+	text-align: center;
+	padding: 0em;}
 
 
 
@@ -149,19 +149,7 @@ dl {
 }
 
 dd {
-	font-style: bold;
-	line-height:1.5;
-	font-weight: bold;
-	font-size: 1rem;
-	text-decoration: none;
-	font-family: Georgia;
-	text-align: left;
-	margin: 0;
-}
-
-
-dt {
-	font-style: none;
+	font-style: normal;
 	line-height:1.5;
 	font-weight: normal;
 	font-size: 1rem;
@@ -172,29 +160,19 @@ dt {
 }
 
 
-.dt {
-	font-style: none;
+dt {
+	line-height:1.5;
+	font-weight: bold;
+	font-size: 1rem;
+	text-decoration: none;
+	font-family: Georgia;
+	text-align: left;
+	margin: 0;
 }
 
-
-p {
-		font-family: Georgia;
-}
-
-a {
-		color: #b32f52;
-}
 
 a:hover {
 	background-color: #cc3865;
-}
-
-.merc {
-	color: white;
-}
-
-.bars {
-	color: blue;
 }
 
 .cite {
@@ -215,23 +193,13 @@ em {
 	font-weight: bold;
 }
 
-.sources {
-	background-color: ;
-	text-align: left;
-	text-decoration:none;
-	margin: 0em;
-	text-decoration: none;
-}
-
-
 
 img {
-width: 100%;
+	width: 100%;
 }
 
 footer {
 	background-color: #ffe524;
 	text-align: center;
-	font-style: none;
 	padding: 2em 1em 2em 1em ;
 }
